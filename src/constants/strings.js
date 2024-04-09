@@ -6,11 +6,11 @@ class Strings {
   static resumeLink = "https://drive.google.com/file/d/1GGDYD7qTxyr7AZ1mByJi09Wt16PldKgq/view"
 
   static github = "GitHub";
-  static githubLink = "https://www.github.com/Sarthak8822";
-  static githubUsername = "sarthak8822";
+  static githubLink = "https://www.github.com/s4rth4k82";
+  static githubUsername = "s4rth4k82";
 
   static linkedIn = "LinkedIn";
-  static linkedInLink = "https://www.linkedin.com/in/sarthak-modhe-129032202/";
+  static linkedInLink = "https://www.linkedin.com/in/sarthak-modhe/";
   static linkedInUsername = "sarthak-modhe";
 
   static instagram = "Instagram";

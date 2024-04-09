@@ -118,10 +118,10 @@ Remember to configure environment variables for sensitive information like email
 
 ## Connect With Me
 
-[![GitHub: Sarthak8822](https://img.shields.io/badge/sarthak-EFF7F6?logo=GitHub&logoColor=333&link=https://www.github.com/Sarthak8822)][github]
+[![GitHub: s4rth4k82](https://img.shields.io/badge/sarthak-EFF7F6?logo=GitHub&logoColor=333&link=https://www.github.com/s4rth4k)][github]
 [![Linkedin: sarthak-modhe](https://img.shields.io/badge/sarthak-EFF7F6?logo=LinkedIn&logoColor=blue&link=https://www.linkedin.com/in/sarthak-modhe-129032202/)][linkedin]
 [![Gmail: sarthakpravin08@gmail.com](https://img.shields.io/badge/sarthakpravin08@gmail.com-EFF7F6?logo=Gmail&link=mailto:sarthakpravin08@gmail.com)][gmail]
 
-[github]: https://github.com/Sarthak8822
-[linkedin]: https://www.linkedin.com/in/sarthak-modhe-129032202/
+[github]: https://github.com/s4rth4k82
+[linkedin]: https://www.linkedin.com/in/sarthak-modhe/
 [gmail]: mailto:sarthakpravin08@gmail.com
