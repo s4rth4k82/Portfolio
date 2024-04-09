@@ -15,9 +15,6 @@ This repository contains the source code for a portfolio website built using Nex
   - [Customization](#customization)
     - [Changing Content](#changing-content)
   - [Deployment](#deployment)
-  - [Contributing](#contributing)
-  - [License](#license)
-  - [Sponsor Me](#sponsor-me)
   - [Connect With Me](#connect-with-me)
 
 ## Features
@@ -28,13 +25,12 @@ This repository contains the source code for a portfolio website built using Nex
 - Easily customizable with Sass for styling.
 
 ## Sceenshots
-
-![About](/screenshots/portfolio-1.png)
-![Services](/screenshots/portfolio-2.png)
-![Experiences](/screenshots/portfolio-3.png)
-![Skills](/screenshots/portfolio-4.png)
-![Projects](/screenshots/portfolio-5.png)
-![Contact](/screenshots/portfolio-6.png)
+![About](https://github.com/s4rth4k82/Portfolio/assets/166211539/5ec1a5b8-5cc3-49f3-94c7-18eb5f2ee2c0)
+![Services](https://github.com/s4rth4k82/Portfolio/assets/166211539/4ddec57b-2c71-4f1d-ac45-6bafb0c7f054)
+![Experiences](https://github.com/s4rth4k82/Portfolio/assets/166211539/eecee82b-a1ed-4675-88ac-5b65c507d68c)
+![Skills](https://github.com/s4rth4k82/Portfolio/assets/166211539/2a1ee68f-7ddc-49da-b55b-c4b1d1d2a71e)
+![Projects](https://github.com/s4rth4k82/Portfolio/assets/166211539/ac364b29-6797-4c32-8135-a35f16e6ee86)
+![Contact](https://github.com/s4rth4k82/Portfolio/assets/166211539/fd8cb0ae-a274-45ef-94cd-78d0ceb84dde)
 
 ## Getting Started
 
@@ -54,13 +50,13 @@ You need to have the following software installed on your computer:
 2. Clone this repository to your local machine using the following command:
 
    ```bash
-   git clone https://github.com/Sarthak8822/NextJS-Portfolio.git
+   git clone https://github.com/s4rth4k82/Portfolio.git
    ```
 
 3. Navigate to the project directory:
 
    ```bash
-   cd portfolio-nextjs
+   cd Portfolio
    ```
 
 4. Install the project dependencies:
